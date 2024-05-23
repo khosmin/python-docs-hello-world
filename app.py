@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "StoreLink Python test app"
+    return "StoreLink Python demo app"
